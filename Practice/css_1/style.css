@@ -1,0 +1,9 @@
+#page-title {
+    text-align: center;
+}
+
+#picture-container {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+}
